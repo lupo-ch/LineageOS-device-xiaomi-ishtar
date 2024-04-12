@@ -1,3 +1,9 @@
-# LineageOS-device-xiaomi-ishtar
-Lineage OS 21 port for Xiaomi 13 Ultra ishtar
-device/xiaomi/ishtar
+# Android device tree for Xiaomi 2304FPN6DC (ishtar)
+
+```
+#
+# Copyright (C) 2023 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
